@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+    padding: 15px;
+    border-radius:15px;
+}
+main{
+    margin:20px;
+
+}
+nav a {
+    text-decoration: none;
+    padding: 5px;
+    margin:10px;
+    border:1px solid black;
+}
+footer {
+    background-color: aqua;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
